@@ -2,7 +2,7 @@
 *Full Stack Web Developer*  
 jalandhar,punjab, India  
 [shubhamkumar1512006@gmail.com](mailto:shubhamkumar1512006@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/karan-singh-280726326/)  
+[LinkedIn](https://www.linkedin.com/in/shubh74)
 
 ---
 
