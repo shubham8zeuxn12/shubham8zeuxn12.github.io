@@ -1,0 +1,93 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: #1a1a1a;
+}
+
+.nav-link {
+    color: #b3b3b3 !important;
+}
+
+.nav-link:hover {
+    color: #ffffff !important;
+}
+
+.heading-hi-there {
+    font-size: 3rem;
+    color: #ffffff;
+}
+
+.haeding-i-m {
+    font-size: 2.5rem;
+    color: #b37dff;
+}
+
+.colour {
+    color: #b37dff;
+}
+
+.myself {
+    font-size: 2rem;
+    margin-top: 50px;
+}
+
+.avatr-img {
+    width: 80%;
+    border-radius: 50%;
+}
+
+.project-name {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+.project-click {
+    font-size: 1rem;
+    opacity: 0.7;
+}
+
+.shadow {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s;
+}
+
+.shadow:hover {
+    transform: scale(1.05);
+}
+
+.text-white {
+    opacity: 0.9;
+}
+
+.skill {
+    margin: 40px 0;
+}
+
+.project-hover {
+    transition: transform 0.3s;
+}
+
+.project-hover:hover {
+    transform: translateY(-10px);
+}
+
+.icon-color {
+    color: #b3b3b3;
+    transition: color 0.3s;
+}
+
+.icon-color:hover {
+    color: #ffffff;
+}
+
+.footer {
+    background-color: #1a1a1a;
+    padding: 20px 0;
+}
+
+.footer p {
+    margin: 0;
+}
